@@ -1,0 +1,13 @@
+D:\sekolah\programming\sem5\WeatherApp\bin\Debug\WeatherApp.exe.config
+D:\sekolah\programming\sem5\WeatherApp\bin\Debug\WeatherApp.exe
+D:\sekolah\programming\sem5\WeatherApp\bin\Debug\WeatherApp.pdb
+D:\sekolah\programming\sem5\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+D:\sekolah\programming\sem5\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+D:\sekolah\programming\sem5\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+D:\sekolah\programming\sem5\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+D:\sekolah\programming\sem5\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+D:\sekolah\programming\sem5\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+D:\sekolah\programming\sem5\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+D:\sekolah\programming\sem5\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+D:\sekolah\programming\sem5\WeatherApp\obj\Debug\WeatherApp.exe
+D:\sekolah\programming\sem5\WeatherApp\obj\Debug\WeatherApp.pdb
